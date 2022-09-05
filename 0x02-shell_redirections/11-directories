@@ -1,2 +1,2 @@
-i#!/bin/bash
+#!/bin/bash
 find . -type f -print | wc -1
