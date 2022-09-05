@@ -1,0 +1,2 @@
+i#!/bin/bash
+find . -type f -print | wc -1
